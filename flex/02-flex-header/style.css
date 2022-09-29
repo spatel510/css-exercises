@@ -7,19 +7,6 @@
   padding: 8px;
 }
 
-.left-links {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.right-links {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-}
-
 .logo {
   font-size: 48px;
   font-weight: 900;
